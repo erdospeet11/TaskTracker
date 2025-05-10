@@ -1,4 +1,4 @@
-https://github.com/erdospeet11/TaskTracker/
+https://roadmap.sh/projects/task-tracker
 
 # Task Tracker CLI
 
